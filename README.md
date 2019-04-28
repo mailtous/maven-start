@@ -1,2 +1,2 @@
 # maven-start
-maven-start
+maven project start template .
